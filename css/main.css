@@ -1,0 +1,28 @@
+.site-header{
+    background-color:#F9BF3B;
+    color: #2c2c02;
+    height:100vh; 
+    font-family:monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-header-content{
+    margin:10px;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+    box-shadow: #5d4101 2px 5px 5px;
+}
+.project-link{
+    color: #161606;
+}
+
+body{
+    margin:0;
+}
